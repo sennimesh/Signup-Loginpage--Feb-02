@@ -3,8 +3,8 @@
 Modern login & signup UI built with HTML, CSS & JavaScript.
 
 ## 📸 Preview
-<img src="loginpage.jpg" width="400">
-<img src="signup page.jpg" width="400">
+<img src="Loginpage.jpg" width="400">
+<img src="Signup page.jpg" width="400">
 
 ## 🚀 Features
 - Floating labels
